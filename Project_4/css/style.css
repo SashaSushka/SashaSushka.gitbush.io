@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 500px;
+    height: 500px;
+    border: 3px solid rgb(0, 0, 0);
+    margin: 0 auto;
+}
+.first>td:nth-child(1){
+    background-color: rgb(242, 255, 60);
+}
+.first>td:nth-child(2){
+    background-color: rgb(255, 166, 0);
+}
+.second>td:nth-child(1){
+    background-color: rgb(255, 152, 250);
+}
+.second>td:nth-child(2){
+    background-color: rgb(86, 235, 255);
+}
+.second>td:nth-child(3){
+    background-color: rgb(255, 74, 89);
+}
+.third>td:nth-child(1){
+    background-color: rgb(99, 64, 255);
+}
+.third>td:nth-child(2){
+    background-color: rgb(192, 97, 255);
+}
+.fourth>td:nth-child(1){
+    background-color: rgb(83, 255, 189);
+}
+.five>td:nth-child(1){
+    background-color: rgb(253, 53, 186);
+}
+.btn{
+    width: 200px;
+    height: 20px;
+    background: linear-gradient(45deg, #a8edea, #fed6e3);
+    border-radius: 20px;
+    text-align: center;
+    display:block;
+    font-size: 30px;
+    padding: 25px;
+    margin: 0 auto;
+    border: black;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+} 

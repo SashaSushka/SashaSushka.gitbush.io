@@ -1,0 +1,61 @@
+
+span{
+    color: coral;}
+    h1{
+        text-align: center;
+    }
+
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Open+Sans:ital,wght@0,400;0,500;1,400&family=Qahiri&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 1200px;
+    height: 800px;
+    margin: 15px auto;
+}
+.main-left{
+    width: 350px;
+}
+.main-right{
+    width: 1150px;
+}
+.foto{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+.main-left, .main-right{
+    border-radius: 5px;
+    margin: 0 25px;
+    padding: 0 35px;
+    -webkit-box-shadow: 8px 3px 16px 0px #9c9b9b; 
+box-shadow: 8px 3px 16px 0px #5e5c5c;
+}
+ul{
+    list-style: none;
+}
+
+td{
+    border-bottom: 2px solid black;
+}
+.btn:hover{
+    -webkit-box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 8px 3px 16px 0px rgba(0,0,0,0); 
+box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 8px 3px 16px 0px rgba(0,0,0,0);
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    background-color:rgb(82, 79, 255);
+    margin: 0 auto;
+    display: block;
+    height: 30px;
+    font-size: 30px;
+    color: rgb(255, 226, 129);
+     padding: 40px;
+}
+.btn_1{
+    text-align: center;
+}

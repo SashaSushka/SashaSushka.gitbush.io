@@ -1,0 +1,34 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+   margin-top: 5px;
+   margin-bottom: 10px;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+}
+table{
+    width: 80%;
+    margin: 50px auto;
+    height: 500px;
+    border-top: 2px solid black;
+    margin-top: 30px
+
+}
+td{
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    text-decoration: black;
+}
+td:hover{
+    border: 3px solid black;
+    font-size: 40px;
+    background-color: rgb(255, 193, 170);
+}
+a{
+    text-decoration: none;
+    color: rgb(114, 30, 0);
+}
